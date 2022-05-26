@@ -1,0 +1,17 @@
+{
+    "name": "augustoqtn/buscador-cursos-alura",
+    "description": "projeto que busca cursos no site da alura.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Augustoqtn\\BuscadorCursosAlura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Augusto",
+            "email": "augustinhobrito542@gmail.com"
+        }
+    ],
+    "require": {}
+}
