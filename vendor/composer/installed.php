@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '0d3b17e734da3499c2eca16fec6c9d29ce5c27a8',
+        'reference' => 'b2535824640457a1b978f0bd1da089568aa91091',
         'name' => 'augustoqtn/buscador-cursos-alura',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '0d3b17e734da3499c2eca16fec6c9d29ce5c27a8',
+            'reference' => 'b2535824640457a1b978f0bd1da089568aa91091',
             'dev_requirement' => false,
         ),
         'guzzlehttp/guzzle' => array(
@@ -98,6 +98,15 @@
             'install_path' => __DIR__ . '/../ralouphie/getallheaders',
             'aliases' => array(),
             'reference' => '120b605dfeb996808c31b6477290a714d356e822',
+            'dev_requirement' => false,
+        ),
+        'symfony/css-selector' => array(
+            'pretty_version' => 'v6.0.3',
+            'version' => '6.0.3.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/css-selector',
+            'aliases' => array(),
+            'reference' => '1955d595c12c111629cc814d3f2a2ff13580508a',
             'dev_requirement' => false,
         ),
         'symfony/deprecation-contracts' => array(
