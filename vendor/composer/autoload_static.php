@@ -28,6 +28,10 @@ class ComposerStaticInit6c7d814af4c903c1996a91bcd4154dfd
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Http\\Client\\' => 16,
         ),
+        'M' => 
+        array (
+            'Masterminds\\' => 12,
+        ),
         'G' => 
         array (
             'GuzzleHttp\\Psr7\\' => 16,
@@ -36,7 +40,7 @@ class ComposerStaticInit6c7d814af4c903c1996a91bcd4154dfd
         ),
         'A' => 
         array (
-            'Augustoqtn\\BuscadorCursosAlura\\' => 31,
+            'Alura\\BuscadorDeCursos\\' => 23,
         ),
     );
 
@@ -66,6 +70,10 @@ class ComposerStaticInit6c7d814af4c903c1996a91bcd4154dfd
         array (
             0 => __DIR__ . '/..' . '/psr/http-client/src',
         ),
+        'Masterminds\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/masterminds/html5/src',
+        ),
         'GuzzleHttp\\Psr7\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
@@ -78,7 +86,7 @@ class ComposerStaticInit6c7d814af4c903c1996a91bcd4154dfd
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
         ),
-        'Augustoqtn\\BuscadorCursosAlura\\' => 
+        'Alura\\BuscadorDeCursos\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
