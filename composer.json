@@ -2,16 +2,18 @@
     "name": "augustoqtn/buscador-cursos-alura",
     "description": "projeto que busca cursos no site da alura.",
     "type": "library",
+    "authors": [{
+        "name": "Augusto",
+        "email": "augustinhobrito542@gmail.com"
+    }],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler": "^6.0",
+        "symfony/css-selector": "^6.0"
+    },
     "autoload": {
         "psr-4": {
-            "Augustoqtn\\BuscadorCursosAlura\\": "src/"
+            "Alura\\BuscadorDeCursos\\": "src/"
         }
-    },
-    "authors": [
-        {
-            "name": "Augusto",
-            "email": "augustinhobrito542@gmail.com"
-        }
-    ],
-    "require": {}
+    }
 }
