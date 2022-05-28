@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '816e36a5868b20d1f3e4980e844a1df70c3a746e',
+        'reference' => '1291251e94c5d6d53be651c7d7cf3461abc4fc34',
         'name' => 'augustoqtn/buscador-cursos-alura',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '816e36a5868b20d1f3e4980e844a1df70c3a746e',
+            'reference' => '1291251e94c5d6d53be651c7d7cf3461abc4fc34',
             'dev_requirement' => false,
         ),
         'doctrine/instantiator' => array(
@@ -386,6 +386,15 @@
             'install_path' => __DIR__ . '/../sebastian/version',
             'aliases' => array(),
             'reference' => 'c6c1022351a901512170118436c764e473f6de8c',
+            'dev_requirement' => true,
+        ),
+        'squizlabs/php_codesniffer' => array(
+            'pretty_version' => '3.6.2',
+            'version' => '3.6.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../squizlabs/php_codesniffer',
+            'aliases' => array(),
+            'reference' => '5e4e71592f69da17871dba6e80dd51bce74a351a',
             'dev_requirement' => true,
         ),
         'symfony/css-selector' => array(
