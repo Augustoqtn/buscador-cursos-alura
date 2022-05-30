@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"Alura\\Tests\\TestBuscadorDeCursos::testBuscadorDeveRetornarCursos":0.339}}
+{"version":1,"defects":[],"times":{"Alura\\Tests\\TestBuscadorDeCursos::testBuscadorDeveRetornarCursos":0.339,"Alura\\BuscadorDeCursos\\Tests\\TestBuscadorDeCursos::testBuscadorDeveRetornarCursos":0.03}}
