@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'f99e24d9f199bcbb82e9ef904ddff44480e93bcb',
+        'reference' => 'ae4e994d9b96cd2f3b68573c90a0f54f040eebb7',
         'name' => 'augustoqtn/buscador-cursos-alura',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'f99e24d9f199bcbb82e9ef904ddff44480e93bcb',
+            'reference' => 'ae4e994d9b96cd2f3b68573c90a0f54f040eebb7',
             'dev_requirement' => false,
         ),
         'composer/pcre' => array(
